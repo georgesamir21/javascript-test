@@ -15,7 +15,8 @@
   "license": "ISC",
   "devDependencies": {
     "benny": "^3.6.15",
-    "jest": "^27.0.6"
+    "jest": "^27.0.6",
+    "prettier": "^2.4.1"
   },
   "jest": {
     "verbose": true,
